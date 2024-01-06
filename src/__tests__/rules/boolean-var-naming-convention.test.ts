@@ -1,5 +1,5 @@
-import { RuleTester, getFixturesRootDir } from './RuleTester';
-import rule from '../../src/rules/boolean-var-naming-convention';
+import { RuleTester, getFixturesRootDir } from '../RuleTester';
+import rule from '../../rules/boolean-var-naming-convention';
 
 const ruleTester = new RuleTester({
   parser: '@typescript-eslint/parser',
