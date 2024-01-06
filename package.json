@@ -9,6 +9,9 @@
   ],
   "author": "takagimeow <mit@takagi.app>",
   "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc -b tsconfig.build.json",
     "lint": "npm-run-all \"lint:*\"",
