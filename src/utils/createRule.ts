@@ -1,9 +1,8 @@
 import { ESLintUtils } from '@typescript-eslint/utils';
 
-// TODO: ドキュメントのURLを用意する
 const createRule = ESLintUtils.RuleCreator(
   name =>
-    `TODO`,
+    `https://github.com/takagimeow/eslint-plugin-naming-convention/blob/main/docs/rules/${name}.md`,
 );
 
 export { createRule };
