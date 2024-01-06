@@ -1,5 +1,11 @@
 # eslint-plugin-naming-convention
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-naming-convention.svg)](https://badge.fury.io/js/eslint-plugin-naming-convention)
+![npm](https://img.shields.io/npm/dt/eslint-plugin-naming-convention)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!-- ![main workflow](https://github.com/takagimeow/eslint-plugin-naming-convention/actions/workflows/ci.yml/badge.svg) -->
+
 ESLint plugin for enforcing naming conventions on variables and function names.
 
 ## Installation
