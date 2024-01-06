@@ -10,7 +10,8 @@
   "author": "takagimeow <mit@takagi.app>",
   "main": "./dist/index.js",
   "files": [
-    "dist"
+    "dist",
+    "!dist/__tests__"
   ],
   "scripts": {
     "build": "tsc -b tsconfig.build.json",
